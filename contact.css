@@ -1,0 +1,32 @@
+
+html {height: 100%;}
+body { background-color:rgba(206, 132, 59, 100);  
+    font-family: Instrument Serif;
+  text-align: center; 
+margin:0;
+}
+main { padding-bottom: 15%; 
+padding-top: 10%;}
+  .navbar ul{
+    listt-style-type: none; 
+    background-color: rgba(161, 137, 92, 0.45); 
+    padding: 0px; 
+    margin: 0px;
+  } 
+  .navbar a{
+    color: white; 
+    text-decoration: none;
+    padding: 15px; 
+    display: flex; 
+    flex-direction: rows; 
+    justify-content: space-evenly;
+  }
+   .navbar a:hover{ 
+    background-color:rgba(138, 117, 79, 0.45);
+   } 
+  
+  footer { 
+  background-color: rgba(161, 137, 92, 0.45); 
+  height: 70px; 
+  bottom: 0%;
+  } 
